@@ -5,6 +5,7 @@ description 'This script adds Engin damage on high Engintemperatur'
 version '1.0.0'
 
 client_scripts {
+    "config.lua",
     "client.lua"
 }
 
