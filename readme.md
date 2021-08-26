@@ -2,7 +2,7 @@
 
 **Script created by MausCD**
 
-[GitHub](https://github.com/MausCD)
+[GitHub](https://github.com/MausCD/MCD_overheating)
 
 **Changelog**
 --
