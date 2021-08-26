@@ -1,3 +1,4 @@
+local damage = 5
 Citizen.CreateThread(function()
 while true do
 Citizen.Wait(1000)
@@ -12,13 +13,15 @@ end
 if(invehicle == 1) then
 local vehtemp = GetVehicleEngineTemperature(vehicle)
 local vehrpm = GetVehicleCurrentRpm(vehicle)
+local vehenghel = 0
 local vehenghel = GetVehicleEngineHealth(vehicle)
-
+print(vehicle)
+print(vehenghel)
 if(vehtemp >= 100) then
     if(vehenghel >= 10) then
         if(vehrpm >= 0.2002) then
-    local newvehenghel = vehenghel -5
-    SetVehicleEngineHealth(vehicle, newvehenghel)
+    local newvehenghel = vehenghel -damage
+        SetVehicleEngineHealth(vehicle, newvehenghel)
         end
     else
         SetVehicleEngineHealth(vehicle, 0)
