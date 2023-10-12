@@ -1,56 +1,48 @@
 # MCD_overheating
 
-**Script created by MausCD**
+## Script created by MausCD
 
 [GitHub](https://github.com/MausCD/MCD_overheating)
 
 **Changelog**
 --
 
-# English
+## English
 
-**About**
+### About
 
-This script adds Engin damage on high Engintemperatur
- 
- **Requirements**
- 
- no
+This script adds engine damage on high engine temperature.
 
- **Installation**
+### Requirements
 
-Add mcd_overheating to the resources folder
+There are no requirements.
 
-Open the server.cfg and add start mcd_overheating there
+### Installation
 
-restart the server and have fun
+1. Add `mcd_overheating` to the resources folder.
+2. Open the `server.cfg` and add `start mcd_overheating` there.
+3. Restart the server and have fun.
 
 **[Support](https://discord.gg/bBrSeqc52x)**
 
-If you have any issues, comments or suggestions please put them below.
+If you have any issues, comments, or suggestions, please share them below.
 
+## Deutsch
 
-# Deutsch
+### Über
 
-**Über**
+Dieses Script fügt Motorschaden hinzu, wenn die Motortemperatur hoch ist.
 
-Dieses Script fügt Motorschaden hinzu bei hoher Motortemperatur
+### Requirements
 
-**Requirements**
+Es gibt keine Anforderungen.
 
-nichts
+### Installation
 
+1. Füge `mcd_overheating` in den Ressourcenordner ein.
+2. Öffne die `server.cfg` und füge dort `start mcd_overheating` ein.
+3. Starte den Server neu und viel Spaß.
 
-**Installation**
-
-Füge mcd_overheating in resources Ordner ein
-
-Öffne die server.cfg und füge dort start mcd_overheating ein
-
-starte den server neu und Viel Spaß
-
-**Des Weiteren [Support](https://discord.gg/bBrSeqc52x)**
+**Weitere Unterstützung [Support](https://discord.gg/bBrSeqc52x)**
 
 Wenn Sie Probleme, Kommentare oder Vorschläge haben, geben Sie diese bitte unten ein.
-
-
